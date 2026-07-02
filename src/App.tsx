@@ -9,6 +9,7 @@ import FAQ from './components/FAQ';
 import ApplicationForm from './components/ApplicationForm';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import FloatingWhatsapp from './components/FloatingWhatsapp';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
         <Contact />
       </main>
       <Footer />
+      <FloatingWhatsapp />
     </div>
   );
 }
