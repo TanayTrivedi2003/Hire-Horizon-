@@ -4,9 +4,9 @@ import Counter from './ui/Counter';
 import SectionTitle from './ui/SectionTitle';
 
 const STATS = [
-  { icon: Users, value: 5000, suffix: '+', label: 'Candidates Placed' },
-  { icon: Building2, value: 50, suffix: '+', label: 'Banking Partners' },
-  { icon: UserCheck, value: 100, suffix: '+', label: 'Active Recruiters' },
+  { icon: Users, value: 250, suffix: '+', label: 'Candidates Placed' },
+  { icon: Building2, value: 12, suffix: '+', label: 'Banking Partners' },
+  { icon: UserCheck, value: 99, suffix: '+', label: 'Active Recruiters' },
   { icon: Smile, value: 95, suffix: '%', label: 'Client Satisfaction' },
 ];
 
