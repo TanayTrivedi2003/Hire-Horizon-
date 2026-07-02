@@ -3,9 +3,9 @@ import { motion, useScroll, useTransform } from 'framer-motion';
 import { ArrowRight, MessageCircle, ShieldCheck, Users, Building2, Award, TrendingUp } from 'lucide-react';
 
 const STATS = [
-  { icon: Users, value: '5000+', label: 'Candidates Placed' },
-  { icon: Building2, value: '50+', label: 'Banking Partners' },
-  { icon: Award, value: '100+', label: 'Recruiters' },
+  { icon: Users, value: '250+', label: 'Candidates Placed' },
+  { icon: Building2, value: '12+', label: 'Banking Partners' },
+  { icon: Award, value: '99+', label: 'Recruiters' },
   { icon: TrendingUp, value: '95%', label: 'Satisfaction' },
 ];
 
