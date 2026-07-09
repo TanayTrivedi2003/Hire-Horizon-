@@ -104,7 +104,7 @@ export default function Footer() {
             © 2026 Hire Horizon Group. All rights reserved.<br />
             <span className="text-gold-400/80">Unfolding New Horizons of Success.</span>
           </p>
-          <p className="text-sm text-white/50">Made with Emergent</p>
+        
           <button
             onClick={toTop}
             className="group flex items-center gap-2 text-sm text-white/60 hover:text-gold-400 transition-colors"
@@ -117,5 +117,5 @@ export default function Footer() {
         </div>
       </div>
     </footer>
-  );
+  );s
 }
