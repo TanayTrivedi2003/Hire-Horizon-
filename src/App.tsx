@@ -4,6 +4,7 @@ import About from './components/About';
 import Opportunities from './components/Opportunities';
 import Process from './components/Process';
 import Stats from './components/Stats';
+import Director from './components/Director';
 import Stories from './components/Stories';
 import FAQ from './components/FAQ';
 import ApplicationForm from './components/ApplicationForm';
@@ -21,6 +22,7 @@ function App() {
         <Opportunities />
         <Process />
         <Stats />
+        <Director/>
         <Stories />
         <FAQ />
         <ApplicationForm />
