@@ -106,7 +106,7 @@ export default function Director() {
                 Mr. Ankit Kushwaha
               </h3>
 
-              <p className="text-gold-600 mt-2">Director Hire Horizon</p>
+              <p className="text-gold-600 mt-2">Director Hire Horizon Group</p>
 
               <img src="/signature.png" alt="" className="w-40 mt-6" />
             </div>
